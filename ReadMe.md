@@ -15,14 +15,14 @@ Pseudonym raw data is located in `data/` folder.
 We share the following types of raw data in the subfolders: 
 
 ### 2.1. Raw data: MRI 
-Path: `data/mri`
+Path: `data/mri` in the OSF storage
 
 For each participant, we share anatomical and diffusion magnetic resonance imaging (MRI) data.
 MRI data is organized according to the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/).
 Niftii images corresponding to the anatomical MRI are defaced by using the python-based defacing utility for MRI images called [pydeface](https://github.com/poldracklab/pydeface). 
 
 ### 2.2. Raw data: EEG 
-Path: `data/eeg`
+Path: `data/eeg` in the OSF storage
 
 We attained scalp-recorded EEG data by using 24-bit, battery-supplied, active channel amplifier with 64 Ag/AgCl active EEG electrodes (actiCAP, BrainVision LLC, Germany) at 2.5 kHz sampling rate and w/o hardware filters (actiChamp, Brain Vision LLC, Germany). Ground and reference electrodes were located at Fpz and FCz, respectively. 
 
