@@ -1,6 +1,6 @@
-# TITLE
+# Weak rTMS-induced electric fields produce neural entrainment in humans
 
-This repository contains data and analysis scripts for our manuscript entitled "TITLE".
+This repository contains data and analysis scripts for our manuscript entitled "Weak rTMS-induced electric fields produce neural entrainment in humans".
 
 If you want to use data or analysis scripts in a research publication,
 please cite [our manuscript](http://link).
