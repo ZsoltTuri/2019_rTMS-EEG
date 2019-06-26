@@ -4,6 +4,6 @@ The folder contains scripts used for rTMS-EEG analysis as well as an example dat
 
 - *Preprocessing_blocksprepare.m* - script used for preparing data from each stimulation block in one dataset. Here, the trials were defined using dep/findpeaks_rTMS.m
 
-- *Preprocessing_artefacts.m* - script used for cleaning EEG data from artefacts such as: bad electrode's signal, bad trials, eye-related artefacts by semi-automatic algorithm adapted from [ARTIST] (https://doi.org/10.1002/hbm.23938)
+- *Preprocessing_artefacts.m* - script used for cleaning EEG data from artefacts such as: bad electrode's signal, bad trials, eye-related artefacts by semi-automatic algorithm adapted from ARTIST (https://doi.org/10.1002/hbm.23938)
 
 - *Wavelet_PLV_Statistics.m* - time-frequency decomposition and PLV estimation. Statistical analysis was performed for comparison between rhythmic and arrhyhtmic conditions on the group-level data separately for each intensity condition.
