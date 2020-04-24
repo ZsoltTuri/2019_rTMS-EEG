@@ -25,6 +25,8 @@ Niftii images corresponding to the anatomical MRI are defaced by using the pytho
 
 ### 3.2. Raw data: EEG 
 Path: `data/eeg` in the OSF storage
+Folder `main-raw` contains raw data from the main experimental group stimulated by real TMS.
+Folder `control-raw` containts raw data from the control group stimulated by sham TMS.
 
 We attained scalp-recorded EEG data by using 24-bit, battery-supplied, active channel amplifier with 64 Ag/AgCl active EEG electrodes (actiCAP, BrainVision LLC, Germany) at 2.5 kHz sampling rate and w/o hardware filters (actiChamp, Brain Vision LLC, Germany). Ground and reference electrodes were located at Fpz and FCz, respectively. 
 
